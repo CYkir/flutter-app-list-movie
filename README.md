@@ -1,5 +1,8 @@
 # movie_app
 
+
+##github api nya : https://github.com/CYkir/ci3-list-movie
+
 A new Flutter project.
 
 ## Getting Started
